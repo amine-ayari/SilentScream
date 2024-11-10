@@ -1,0 +1,50 @@
+# Ignore Unity Library folder
+Library/
+
+# Other common Unity folders and files to ignore
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+Builds/
+
+# Ignore auto-generated Visual Studio/MonoDevelop files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore crash reports and debug files
+*.stacktrace
+
+# Ignore compiled files
+*.dll
+*.exe
+*.apk
+*.app
+*.bat
+*.class
+*.jar
+*.manifest
+*.pdb
+*.mdb
+*.ipdb
+*.obj
+*.so
+*.psd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore JetBrains Rider project files
+.idea/
+.idea/*
+*.sln.iml
